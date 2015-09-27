@@ -1,6 +1,6 @@
 # Keymap2Midi
 
-Use your PC keyboard as a MIDI controller
+Use your PC keyboard as a MIDI controller<br>
 The "analogic" control is manage by digitals pulse
 <br><br>
 for example :<br>
