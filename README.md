@@ -9,7 +9,7 @@ B touch can send -1 value on the same midi cc 07<br>
 <br>
 Keys binding definition is in a comprehensive xml file<br>
 <br>
-Tuto: TODO
+Tuto: https://www.youtube.com/watch?v=-oH8evLYchI
 <br>
 This Software uses MIDI Dot net libraries<br>
 https://code.google.com/p/midi-dot-net/
