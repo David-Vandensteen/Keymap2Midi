@@ -11,5 +11,5 @@ Keys binding definition is in a comprehensive xml file<br>
 <br>
 Tuto: TODO
 <br>
-This Software this MIDI Dot net libraries<br>
+This Software uses MIDI Dot net libraries<br>
 https://code.google.com/p/midi-dot-net/
